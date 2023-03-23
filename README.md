@@ -1,4 +1,4 @@
-# PA9
+# A graphic application - PA9
 Wednesday, December 7, 2022
 
 A graphic application for programming assignment 9, which we did a platform game.
